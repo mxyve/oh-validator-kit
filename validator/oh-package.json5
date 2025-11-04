@@ -1,0 +1,30 @@
+{
+  "name": "@hmos/validator-kit",
+  "version": "1.0.0",
+  "description": "鸿蒙ArkTS数据校验工具库，提供手机号、邮箱、身份证号、URL等常用格式校验，支持自定义规则和多规则联合校验，适用于表单验证、用户输入检查等场景。",
+  "main": "Index.ets",
+  "author": "mxy",
+  "license": "Apache-2.0",
+  "keywords": [
+    "openharmony",
+    "validator"
+  ],
+  "repository": "https://github.com/mxyve/oh-validator-kit.git",
+  "homepage": "https://github.com/mxyve/oh-validator-kit",
+  "bugs": {
+    "url": "https://github.com/mxyve/oh-validator-kit/issues",
+    "email": "1286280961@qq.com"
+  },
+  "engines": {
+    "harmonyos": ">=5.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "Index.ets",
+    "src/**/*",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ]
+}
